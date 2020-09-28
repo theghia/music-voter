@@ -12,6 +12,7 @@ google-auth-oauthlib = "*"
 mps-youtube = "*"
 spotipy = "*"
 python-dotenv = "*"
+flask = "*"
 
 [requires]
 python_version = "3.7"
