@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 # username = input("What is your Spotify username? ")
+# Test comment
 scope = 'user-read-private user-read-playback-state user-modify-playback-state'
 
 token = None
